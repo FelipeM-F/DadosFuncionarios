@@ -48,11 +48,4 @@ Miguel      14/10/1988       R$ 21.231,87    Diretor
 ...
 ```
 
-## 🤝 Contribuição
-
-Sinta-se à vontade para contribuir com melhorias, abrindo um **pull request** ou relatando problemas na aba **issues**.
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
